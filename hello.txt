@@ -9,3 +9,4 @@ hello git;
 hello git; hot-fix conflict test
 hello git; master conflict test
 hello git; github.com pull test
+hello git: test123456
